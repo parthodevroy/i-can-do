@@ -1,0 +1,34 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+.btn{
+    background-color: blue;
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+justify-content: center;
+    
+
+}
+body{
+    max-width: 1500px;
+}
+.oii{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+}
+ol{
+    text-decoration: none;
+}
+.but{
+    background-image: url('../photo/Hero-bg.png');
+}
